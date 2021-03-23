@@ -1,0 +1,7 @@
+# Direct link to where the datasheet was downloaded from. May contain revision
+# in the URL. Provide `datasheet_link_url` when the datasheet url contains revision.
+datasheet_url = ""
+
+# Link to the page that links to the datasheet. This should be revision agnostic.
+datasheet_link_url = ""
+
